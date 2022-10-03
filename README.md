@@ -1,2 +1,2 @@
-# Skills-Lab-6-Version-Control
+# Hello World
 Repository for Cmpinf 0010
